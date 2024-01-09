@@ -35,5 +35,16 @@ Open cmd with `administrator` and run:
 net user hv1 /add
 net user hv2 /add
 net user hv3 /add
+
+net user tn1 /add
+net user tn2 /add
+net user tn3 /add
 ```
+
 `Window active` > Add group
+* HOC_VIEN
+* TOT_NGHIEP
+
+### 6. Add folder
+### 7. Map drive
+### 8. Add printer
